@@ -1,0 +1,4 @@
+# Build output; screen-color.exe is a copy of target\release\screen-color.exe
+/target/
+/screen-color.exe
+__pycache__/
