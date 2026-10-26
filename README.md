@@ -5,7 +5,8 @@ the same approach f.lux uses. Each display is adjusted on its own, and the monit
 doesn't need DDC/CI support.
 
 `screen-color.exe` is self-contained: it uses only DLLs that come with Windows, so you
-can copy it anywhere. To get it, build it as described under [Building](#building).
+can copy it anywhere. Download it from [Releases](https://github.com/ccdr4gon/screen-color/releases/latest),
+or build it as described under [Building](#building).
 
 ## Usage
 
